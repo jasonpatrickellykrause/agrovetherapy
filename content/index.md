@@ -9,7 +9,7 @@ navigation = []
 template = "navigation-header"
 [[page_sections]]
 block = "hero-1"
-heading = ""
+heading = "Headline Goes Here"
 template = "text-only-hero-banner"
 [[page_sections]]
 block = "footer-1"
